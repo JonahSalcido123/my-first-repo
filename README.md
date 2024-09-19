@@ -1,2 +1,2 @@
 # my-first-repo
-This Is Jonah's Forst Repository 😎
+This Is Jonah's First Repository 😎
