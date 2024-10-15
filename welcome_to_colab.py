@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/notebooks/intro.ipynb
 """
 
-!pip install streamlit
-
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile app.py
 # import streamlit as st
