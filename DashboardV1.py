@@ -7,10 +7,6 @@ Original file is located at
     https://colab.research.google.com/notebooks/intro.ipynb
 """
 
-! pip install streamlit
-
-! pip install plotly
-
 import streamlit as st
 import pandas as pd
 import plotly.express as px
